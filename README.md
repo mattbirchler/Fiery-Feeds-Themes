@@ -11,4 +11,6 @@ This repo will act as a directory for any themes I create for [Fiery Feeds](http
 
 ## Direct Download Links
 
-- [Fiery Halloween](https://birchtree.nyc3.digitaloceanspaces.com/Fiery%20Halloween.fftheme)
+[Fiery Halloween](https://birchtree.nyc3.digitaloceanspaces.com/Fiery%20Halloween.fftheme)
+
+![Fiery Halloween](https://birchtree.nyc3.digitaloceanspaces.com/images/Fiery%20Feeds%20Halloween.png)
