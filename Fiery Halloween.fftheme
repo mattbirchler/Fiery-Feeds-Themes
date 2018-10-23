@@ -60,6 +60,6 @@
     /* App Settings */
     "kFieryColorsLightStatusbar" : true,
     "kFieryColorsDarkScrollbars" : false,
-    "kFieryColorsReadArticleAlpha" : 0.8,
+    "kFieryColorsReadArticleAlpha" : 0.4,
     "kFieryColorsBackgroundBlurStyle" : "UIBlurEffectStyleDark"
 }
